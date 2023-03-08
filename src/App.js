@@ -23,6 +23,18 @@ const DUMMY_EXPENSES = [
     amount: 450,
     date: new Date(2022, 5, 12),
   },
+  {
+    id: "e5",
+    title: "New Chair (Wooden)",
+    amount: 850,
+    date: new Date(2022, 6, 12),
+  },
+  {
+    id: "e6",
+    title: "Stephen King Book",
+    amount: 17.99,
+    date: new Date(2023, 1, 10),
+  },
 ];
 
 const App = () => {
